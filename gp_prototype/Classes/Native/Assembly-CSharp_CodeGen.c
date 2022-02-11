@@ -1,0 +1,259 @@
+﻿#include "il2cpp-config.h"
+
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+IL2CPP_EXTERN_C_BEGIN
+IL2CPP_EXTERN_C_END
+
+
+
+
+// 0x00000001 System.Void ARSessionPrint::Update()
+extern void ARSessionPrint_Update_mFA9AEFC51679059B41D1A8E1C6BB82EA0E7B2040 (void);
+// 0x00000002 System.Void ARSessionPrint::.ctor()
+extern void ARSessionPrint__ctor_m3588D6D8C47327614E0858DEA48E43E7C6EF8E59 (void);
+// 0x00000003 System.Void CPOB_1m::Start()
+extern void CPOB_1m_Start_mBDECF010A8228B4F2AF92C46A723C57453E65F9C (void);
+// 0x00000004 System.Void CPOB_1m::Update()
+extern void CPOB_1m_Update_mDE71F8D058D8E516DF41CCEDA4DA6E31F383AE6B (void);
+// 0x00000005 System.Void CPOB_1m::.ctor()
+extern void CPOB_1m__ctor_mDCD291EEDF45EB13CBA5D06C08CABA905E349326 (void);
+// 0x00000006 System.Void CreateObject::Awake()
+extern void CreateObject_Awake_m5E0D384EDF3A7A7C0513CFF4259559A5142BD0EA (void);
+// 0x00000007 System.Void CreateObject::Update()
+extern void CreateObject_Update_m6336FA5C95C3A6E413CFBE6686AC3733C12C2068 (void);
+// 0x00000008 System.Void CreateObject::.ctor()
+extern void CreateObject__ctor_mAC33879FDA0E31797088070E20EC0E6C799FAE90 (void);
+// 0x00000009 System.Void CubeRotation::Start()
+extern void CubeRotation_Start_m17C4C4F3E3B84B41473CA811B805382C840F360B (void);
+// 0x0000000A System.Void CubeRotation::Update()
+extern void CubeRotation_Update_m5D48E79DBD7FF9DBDA175EA0FBAB706C82297902 (void);
+// 0x0000000B System.Void CubeRotation::.ctor()
+extern void CubeRotation__ctor_m34EED31EC758D2D01055A92DE39B7907E0E5B6BB (void);
+// 0x0000000C System.Void EPOB_1m::Start()
+extern void EPOB_1m_Start_m1EEB0C415D25C58BFFE36836BDEDECA38D97AC4A (void);
+// 0x0000000D System.Void EPOB_1m::Update()
+extern void EPOB_1m_Update_m530CE1230199B15B5B8E25784AF2D2A00C403FA2 (void);
+// 0x0000000E System.Void EPOB_1m::.ctor()
+extern void EPOB_1m__ctor_m8106973419A6A91BAF76F6E9B74CB364F5CDD106 (void);
+// 0x0000000F System.Void GoAREvent::OnClickStartButton()
+extern void GoAREvent_OnClickStartButton_m771CD377B3DFAA2325D5FC16EAE612D62C95307C (void);
+// 0x00000010 System.Void GoAREvent::.ctor()
+extern void GoAREvent__ctor_m2EF928E4D500972004822705874B91D97F389D0A (void);
+// 0x00000011 System.Void GoARFood::OnClickStartButton()
+extern void GoARFood_OnClickStartButton_m52134E3D360FB6F649B5945AA4EA2CB12BD6B20D (void);
+// 0x00000012 System.Void GoARFood::.ctor()
+extern void GoARFood__ctor_m711695A6704D993CA2DFB7F0FF4CE969F85521D7 (void);
+// 0x00000013 System.Void GoBook::OnClickStartButton1()
+extern void GoBook_OnClickStartButton1_m394C82F400C4076617A70021F7E2A32DD7ABB080 (void);
+// 0x00000014 System.Void GoBook::OnClickStartButton2()
+extern void GoBook_OnClickStartButton2_mAE5E2B0D51C953B29A4BC57124E6890C15C28F03 (void);
+// 0x00000015 System.Void GoBook::OnClickStartButton3()
+extern void GoBook_OnClickStartButton3_mBA26F47DAECA306A29FA786CE538D762D7C27FE1 (void);
+// 0x00000016 System.Void GoBook::OnClickStartButton4()
+extern void GoBook_OnClickStartButton4_mD123231C9E3AB707D16EE5251745C87410C3CD99 (void);
+// 0x00000017 System.Void GoBook::OnClickStartButton5()
+extern void GoBook_OnClickStartButton5_m81AF5292B49B150C6DFB4BD978C619B070B58C4B (void);
+// 0x00000018 System.Void GoBook::OnClickStartButton6()
+extern void GoBook_OnClickStartButton6_m33F1EAE0EBD495CECAA92E0E81F3951FF75ED3E9 (void);
+// 0x00000019 System.Void GoBook::OnClickStartButton7()
+extern void GoBook_OnClickStartButton7_m8F4FFF206C4F1C52F4F19775C32C8D9F7B57CF88 (void);
+// 0x0000001A System.Void GoBook::OnClickStartButton8()
+extern void GoBook_OnClickStartButton8_m2C1CA2BE59282701BF94A294B6EB309B8D49AC67 (void);
+// 0x0000001B System.Void GoBook::OnClickStartButton9()
+extern void GoBook_OnClickStartButton9_m717C1CBDBDDA644ACFC855C885DFE5BB1B77FDF9 (void);
+// 0x0000001C System.Void GoBook::OnClickStartButton10()
+extern void GoBook_OnClickStartButton10_m48295F0EC9A166B1AAAC406DFA4D1590488B1FDF (void);
+// 0x0000001D System.Void GoBook::OnClickStartButton11()
+extern void GoBook_OnClickStartButton11_m469E5A8AA4BDC3D8F3851224FADBE0077286A914 (void);
+// 0x0000001E System.Void GoBook::OnClickStartButton12()
+extern void GoBook_OnClickStartButton12_mB452A379D98B04F958F295E5EC938CFB7103D527 (void);
+// 0x0000001F System.Void GoBook::.ctor()
+extern void GoBook__ctor_m542356B36BFE45998FC85C75B04D0C4D223DD0C0 (void);
+// 0x00000020 System.Void GoTopPage::OnClickStartButton()
+extern void GoTopPage_OnClickStartButton_m62EF88D088A545A53D950D305DE0A8B455669338 (void);
+// 0x00000021 System.Void GoTopPage::.ctor()
+extern void GoTopPage__ctor_m76056C1E6B6E9B05904055B28E5BB5F18A96513D (void);
+// 0x00000022 System.Void LightEstimation::Awake()
+extern void LightEstimation_Awake_m810C5DDEF38182C155ED925189FCEE5A6156ED0F (void);
+// 0x00000023 System.Void LightEstimation::OnEnable()
+extern void LightEstimation_OnEnable_m14852BF0988F64CA2BD06CAF46F3F01E0E4ABD8C (void);
+// 0x00000024 System.Void LightEstimation::OnDisable()
+extern void LightEstimation_OnDisable_mB4EE490FD2CE5C671376ED02803EEEC99DCB6941 (void);
+// 0x00000025 System.Void LightEstimation::FrameChanged(UnityEngine.XR.ARFoundation.ARCameraFrameEventArgs)
+extern void LightEstimation_FrameChanged_mB8C2FF65FE6F8AEDA4D055B124B953CF88ABBD82 (void);
+// 0x00000026 System.Void LightEstimation::.ctor()
+extern void LightEstimation__ctor_m1D22C524A3F3BACE47DAD18291C9A7265A768E14 (void);
+// 0x00000027 System.Void MultiMarker::Start()
+extern void MultiMarker_Start_mFC8D10C7381B571AAC75C1602CD120D2412F6B1B (void);
+// 0x00000028 System.Void MultiMarker::OnDisable()
+extern void MultiMarker_OnDisable_m55A000BD8D0882432A1B123302573AEB51BA6457 (void);
+// 0x00000029 System.Void MultiMarker::ActivateARObject(UnityEngine.XR.ARFoundation.ARTrackedImage)
+extern void MultiMarker_ActivateARObject_mF1E3CBCD4125DDACF5D67A9A8D2BBEB92B7DA422 (void);
+// 0x0000002A System.Void MultiMarker::OnTrackedImagesChanged(UnityEngine.XR.ARFoundation.ARTrackedImagesChangedEventArgs)
+extern void MultiMarker_OnTrackedImagesChanged_m6A1D67020D28F7B980F4F159A253AE74008F3AAC (void);
+// 0x0000002B System.Void MultiMarker::.ctor()
+extern void MultiMarker__ctor_mE9A222A9A7798998810356424FF9CA5FB2EC68E7 (void);
+// 0x0000002C System.Void PancakesChanger::Start()
+extern void PancakesChanger_Start_mA19D474A916A5A72E2A7C8437F17D2958FA34BC8 (void);
+// 0x0000002D System.Void PancakesChanger::Update()
+extern void PancakesChanger_Update_m49F36ABD911C0EBBC5E51FCDA4A0B8B3F64E4598 (void);
+// 0x0000002E System.Void PancakesChanger::.ctor()
+extern void PancakesChanger__ctor_mA15E6F74FFDA6BB986D927A85E4C0EF411EE3A19 (void);
+// 0x0000002F System.Void PingPong::Start()
+extern void PingPong_Start_m396598052B2F52FC54C9D90725900A29E0D8F933 (void);
+// 0x00000030 System.Void PingPong::Update()
+extern void PingPong_Update_mFEF38542AB203F0FA80FDC1817A13DDDA659D953 (void);
+// 0x00000031 System.Void PingPong::.ctor()
+extern void PingPong__ctor_m03321BB92B7C3A467231904141F0FED49A138C5F (void);
+// 0x00000032 System.Void SetActiveUi::OnClickStartButton()
+extern void SetActiveUi_OnClickStartButton_mF8AD629E216BB437FF38C2B4DFCC6CD57EDC0A4A (void);
+// 0x00000033 System.Void SetActiveUi::.ctor()
+extern void SetActiveUi__ctor_m0CCC4D92FC3844C7643F0A27E14CE48DEF5D892F (void);
+// 0x00000034 System.Void SoundPlay::Start()
+extern void SoundPlay_Start_m375057F91C015C16BD5F09A9B19A011C252D9FEA (void);
+// 0x00000035 System.Void SoundPlay::ButtonClick()
+extern void SoundPlay_ButtonClick_m379E731F04156156711E9821DF4AF7E2C781F69C (void);
+// 0x00000036 System.Void SoundPlay::.ctor()
+extern void SoundPlay__ctor_m10A3E0667AF313A22AB6BCF6DD2352B608E2E68B (void);
+static Il2CppMethodPointer s_methodPointers[54] = 
+{
+	ARSessionPrint_Update_mFA9AEFC51679059B41D1A8E1C6BB82EA0E7B2040,
+	ARSessionPrint__ctor_m3588D6D8C47327614E0858DEA48E43E7C6EF8E59,
+	CPOB_1m_Start_mBDECF010A8228B4F2AF92C46A723C57453E65F9C,
+	CPOB_1m_Update_mDE71F8D058D8E516DF41CCEDA4DA6E31F383AE6B,
+	CPOB_1m__ctor_mDCD291EEDF45EB13CBA5D06C08CABA905E349326,
+	CreateObject_Awake_m5E0D384EDF3A7A7C0513CFF4259559A5142BD0EA,
+	CreateObject_Update_m6336FA5C95C3A6E413CFBE6686AC3733C12C2068,
+	CreateObject__ctor_mAC33879FDA0E31797088070E20EC0E6C799FAE90,
+	CubeRotation_Start_m17C4C4F3E3B84B41473CA811B805382C840F360B,
+	CubeRotation_Update_m5D48E79DBD7FF9DBDA175EA0FBAB706C82297902,
+	CubeRotation__ctor_m34EED31EC758D2D01055A92DE39B7907E0E5B6BB,
+	EPOB_1m_Start_m1EEB0C415D25C58BFFE36836BDEDECA38D97AC4A,
+	EPOB_1m_Update_m530CE1230199B15B5B8E25784AF2D2A00C403FA2,
+	EPOB_1m__ctor_m8106973419A6A91BAF76F6E9B74CB364F5CDD106,
+	GoAREvent_OnClickStartButton_m771CD377B3DFAA2325D5FC16EAE612D62C95307C,
+	GoAREvent__ctor_m2EF928E4D500972004822705874B91D97F389D0A,
+	GoARFood_OnClickStartButton_m52134E3D360FB6F649B5945AA4EA2CB12BD6B20D,
+	GoARFood__ctor_m711695A6704D993CA2DFB7F0FF4CE969F85521D7,
+	GoBook_OnClickStartButton1_m394C82F400C4076617A70021F7E2A32DD7ABB080,
+	GoBook_OnClickStartButton2_mAE5E2B0D51C953B29A4BC57124E6890C15C28F03,
+	GoBook_OnClickStartButton3_mBA26F47DAECA306A29FA786CE538D762D7C27FE1,
+	GoBook_OnClickStartButton4_mD123231C9E3AB707D16EE5251745C87410C3CD99,
+	GoBook_OnClickStartButton5_m81AF5292B49B150C6DFB4BD978C619B070B58C4B,
+	GoBook_OnClickStartButton6_m33F1EAE0EBD495CECAA92E0E81F3951FF75ED3E9,
+	GoBook_OnClickStartButton7_m8F4FFF206C4F1C52F4F19775C32C8D9F7B57CF88,
+	GoBook_OnClickStartButton8_m2C1CA2BE59282701BF94A294B6EB309B8D49AC67,
+	GoBook_OnClickStartButton9_m717C1CBDBDDA644ACFC855C885DFE5BB1B77FDF9,
+	GoBook_OnClickStartButton10_m48295F0EC9A166B1AAAC406DFA4D1590488B1FDF,
+	GoBook_OnClickStartButton11_m469E5A8AA4BDC3D8F3851224FADBE0077286A914,
+	GoBook_OnClickStartButton12_mB452A379D98B04F958F295E5EC938CFB7103D527,
+	GoBook__ctor_m542356B36BFE45998FC85C75B04D0C4D223DD0C0,
+	GoTopPage_OnClickStartButton_m62EF88D088A545A53D950D305DE0A8B455669338,
+	GoTopPage__ctor_m76056C1E6B6E9B05904055B28E5BB5F18A96513D,
+	LightEstimation_Awake_m810C5DDEF38182C155ED925189FCEE5A6156ED0F,
+	LightEstimation_OnEnable_m14852BF0988F64CA2BD06CAF46F3F01E0E4ABD8C,
+	LightEstimation_OnDisable_mB4EE490FD2CE5C671376ED02803EEEC99DCB6941,
+	LightEstimation_FrameChanged_mB8C2FF65FE6F8AEDA4D055B124B953CF88ABBD82,
+	LightEstimation__ctor_m1D22C524A3F3BACE47DAD18291C9A7265A768E14,
+	MultiMarker_Start_mFC8D10C7381B571AAC75C1602CD120D2412F6B1B,
+	MultiMarker_OnDisable_m55A000BD8D0882432A1B123302573AEB51BA6457,
+	MultiMarker_ActivateARObject_mF1E3CBCD4125DDACF5D67A9A8D2BBEB92B7DA422,
+	MultiMarker_OnTrackedImagesChanged_m6A1D67020D28F7B980F4F159A253AE74008F3AAC,
+	MultiMarker__ctor_mE9A222A9A7798998810356424FF9CA5FB2EC68E7,
+	PancakesChanger_Start_mA19D474A916A5A72E2A7C8437F17D2958FA34BC8,
+	PancakesChanger_Update_m49F36ABD911C0EBBC5E51FCDA4A0B8B3F64E4598,
+	PancakesChanger__ctor_mA15E6F74FFDA6BB986D927A85E4C0EF411EE3A19,
+	PingPong_Start_m396598052B2F52FC54C9D90725900A29E0D8F933,
+	PingPong_Update_mFEF38542AB203F0FA80FDC1817A13DDDA659D953,
+	PingPong__ctor_m03321BB92B7C3A467231904141F0FED49A138C5F,
+	SetActiveUi_OnClickStartButton_mF8AD629E216BB437FF38C2B4DFCC6CD57EDC0A4A,
+	SetActiveUi__ctor_m0CCC4D92FC3844C7643F0A27E14CE48DEF5D892F,
+	SoundPlay_Start_m375057F91C015C16BD5F09A9B19A011C252D9FEA,
+	SoundPlay_ButtonClick_m379E731F04156156711E9821DF4AF7E2C781F69C,
+	SoundPlay__ctor_m10A3E0667AF313A22AB6BCF6DD2352B608E2E68B,
+};
+static const int32_t s_InvokerIndices[54] = 
+{
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	1648,
+	23,
+	23,
+	23,
+	26,
+	2096,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+};
+extern const Il2CppCodeGenModule g_AssemblyU2DCSharpCodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharpCodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	54,
+	s_methodPointers,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+};
