@@ -1347,7 +1347,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2023894762}
-        m_MethodName: OnClickStartButton1
+        m_MethodName: OnClickStartButton9
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
